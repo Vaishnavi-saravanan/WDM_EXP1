@@ -87,11 +87,11 @@ rainy,75.0,80.0,false,yes
 
 # EMPLOYEE DATA
 
-![o3](https://github.com/user-attachments/assets/919dd3b7-5d57-4cce-9e66-fc766fd0e680)
-
-# WEATHER DATA
 ![o4](https://github.com/user-attachments/assets/46b8dd74-9c26-4003-a23b-cf26d6c69d3f)
+# WEATHER DATA
 
+
+![o3](https://github.com/user-attachments/assets/919dd3b7-5d57-4cce-9e66-fc766fd0e680)
 
 ### 2) Remove -> Pre-Processing Technique:
 
