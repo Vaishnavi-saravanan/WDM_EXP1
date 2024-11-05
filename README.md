@@ -59,11 +59,12 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 
 # EMPLOYEE DATA
+![Screenshot 2024-11-05 215751](https://github.com/user-attachments/assets/21aaf8b2-716d-4138-8497-0c932e0f4b0f)
 
-![o1](https://github.com/user-attachments/assets/bb163b7a-cf5e-443c-882b-369ffb4e604a)
 
 # WEATHER DATA
-![o2](https://github.com/user-attachments/assets/43da3222-a48a-4789-a772-a95cb7de7660)
+![Screenshot 2024-11-05 215759](https://github.com/user-attachments/assets/a2fd2c13-0f88-4185-993c-df016117a914)
+
 
 ### PREPROCESSING
 ### Procedure:
@@ -86,12 +87,11 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 
 # EMPLOYEE DATA
+![Screenshot 2024-11-05 215815](https://github.com/user-attachments/assets/fce2cab3-4d23-42a6-90e4-59826fd56c48)
 
-![o4](https://github.com/user-attachments/assets/46b8dd74-9c26-4003-a23b-cf26d6c69d3f)
 # WEATHER DATA
 
-
-![o3](https://github.com/user-attachments/assets/919dd3b7-5d57-4cce-9e66-fc766fd0e680)
+![Screenshot 2024-11-05 215825](https://github.com/user-attachments/assets/9b95f0a8-1c7e-4f19-ad69-9cdd77d587d5)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -110,11 +110,11 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 
 # EMPLOYEE DATA
-![o5](https://github.com/user-attachments/assets/5bf7dcc7-6598-4761-88f5-1dd7e9b2d1a4)
+![Screenshot 2024-11-05 215833](https://github.com/user-attachments/assets/cdb5c336-a1ec-478f-94e8-730773f0772c)
 
 
 # WEATHER DATA
-![o6](https://github.com/user-attachments/assets/cc9a7761-6c89-4bc1-a44d-698cfbfebe2d)
+![Screenshot 2024-11-05 215839](https://github.com/user-attachments/assets/810591fa-415b-439d-898d-19ad40c50dfe)
 
 
 ### Normalize -> Pre-Processing Technique:
@@ -134,11 +134,11 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 
 # EMPLOYEE DATA
-![o7](https://github.com/user-attachments/assets/5d5cc0b1-370d-414a-8274-644578a4d99b)
+![Screenshot 2024-11-05 215848](https://github.com/user-attachments/assets/ea92105a-b0ab-4719-b7db-a8d6a5255b65)
 
 
 # WEATHER DATA
-![o8](https://github.com/user-attachments/assets/6d4e280d-af33-4534-b7ff-224fadece5e8)
+![Screenshot 2024-11-05 215855](https://github.com/user-attachments/assets/991e55da-83b6-4199-a224-ecedcabc5b7e)
 
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
